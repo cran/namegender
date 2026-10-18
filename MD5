@@ -1,0 +1,17 @@
+d3b624c296557b79efff260e32b50db9 *DESCRIPTION
+c466a461670d9ffd06e496bf86eff7af *LICENSE
+decb4f8929e1c0074e0f5a8f2319b3a6 *NAMESPACE
+a8f11072f78a2dc7898c21a98af0bb5d *NEWS.md
+ae135f3186af13c0c56b2129dd15f3a6 *R/namegender.R
+27f6f32a26abe7e88848491ee5412dd8 *README.md
+bfd83010a81ce38fc3b0932630001cb8 *man/namegender.Rd
+d6ae69dd23feeba4f2ee29ecbfab5568 *man/ng_batch.Rd
+1a1397ff1d12271ef5cfbaf3c91994c7 *man/ng_name_check.Rd
+5deba1d32bdca95c5f54a1f7871aec7c *man/ng_salutation.Rd
+7b91f5e6cec86efd0884a1342918dcef *man/ng_webhook_verify.Rd
+d7f761e587ee2a4fdd6333a083c37fe3 *tests/testthat.R
+bc8006e24707aa9350a8a06bf2a9893d *tests/testthat/test-batches.R
+4f253a11b0540c8868c87c1282f22270 *tests/testthat/test-lookups.R
+9a7bff31e544115d15ab5e3bdd133483 *tests/testthat/test-name-check.R
+7ddff6e0a4fd95137ee2245eb6c460af *tests/testthat/test-salutation.R
+690432002a9fb894dc6bdd839ec514a3 *tests/testthat/test-webhooks.R
